@@ -14,3 +14,5 @@ def get_weather_of_city(city):
 if __name__ == "__main__":
     degrees = get_weather("OSLO")
     print("Weather in Oslo is %.2f degrees Celsius" % degrees)
+    
+    ###
